@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Shankar Koujalagi</h1>
 
 <h3 align="center">💻 AI & Machine Learning Student | Python Developer | Machine Learning Enthusiast</h3>
@@ -86,4 +86,4 @@ Machine Learning application for predicting wind turbine power output using weat
 ⭐ **Thanks for visiting my GitHub profile!**
 
 </p>
-```
+
